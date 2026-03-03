@@ -39,3 +39,9 @@ This tool uses ARP requests for host discovery and multi-threaded TCP socket sca
 ---
 
 ## Project Structure
+network-recon-tool/
+│
+├── scanner.py          # Main script for ARP and Port Scanning
+├── requirements.txt    # Project dependencies
+├── README.md           # Project documentation
+└── .gitignore          # Ignored files
